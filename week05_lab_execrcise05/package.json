@@ -1,0 +1,22 @@
+{
+  "name": "week05_lab_exercise05",
+  "version": "1.0.0",
+  "description": "#### Section A: Practical Coding Tasks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pritesh Patel - Exercise Lab 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-validator": "^7.2.0",
+    "mongoose": "^8.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
